@@ -13,10 +13,6 @@ A tool for evaluating Python code submissions using Google's Gemini AI API. This
 - Light and dark theme support
 - Configurable API key management
 
-## Screenshots
-
-[Add screenshots here]
-
 ## Installation
 
 1. Clone this repository
