@@ -43,7 +43,7 @@ For developers who wish to run or modify the application from source, continue r
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/GemJudge.git](https://github.com/your-username/GemJudge.git)
+    git clone [https://github.com/Cinioluwa/GemJudge.git](https://github.com/Cinioluwa/GemJudge.git)
     cd GemJudge
     ```
 
