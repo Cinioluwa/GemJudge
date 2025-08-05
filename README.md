@@ -11,8 +11,8 @@ If you simply want to use the application without installing Python or any depen
 **[Download the latest installer (.exe) from the Releases page](https://github.com/Cinioluwa/GemJudge/releases/latest)**
 
 -   Windows-only
--   No setup required beyond installing the `.exe`
--   Make sure you have a valid Gemini API key and an an internet connection
+-   Follow the setup.
+-   Make sure you have a valid Gemini API key and an an internet connection.
 
 For developers who wish to run or modify the application from source, continue reading below.
 
